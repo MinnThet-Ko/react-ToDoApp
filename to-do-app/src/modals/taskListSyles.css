@@ -1,0 +1,7 @@
+.taskListCard {
+    height: 300px;
+    width: 600px;
+    border: 1px solid transparent;
+    border-radius: 15%;
+    box-shadow: grey 10px -10px;
+}
